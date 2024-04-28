@@ -1,6 +1,12 @@
 # NM_GAN_FaceGeneration
 GAN-based CelebA Face Generation: Utilized GAN architecture to generate realistic celebrity face images from the CelebA dataset, showcasing benefits such as unsupervised learning and diverse data distribution handling, while acknowledging trade-offs like computational overhead and stability issues.
 
+| Name            | Email                          | College Roll NO. | NM ID          |
+| --------------- | ------------------------------ | ------------------- | -------------- |
+| Fowzaan         | fowzaan.rasheed@gmail.com      | 2021503017       | 8E4AF1FB4D2CAD089814D6BED938AC27   |
+
+
+
 # CelebA Face Generation using Generative Adversarial Networks (GANs)
 
 This project implements a Generative Adversarial Network (GAN) to generate realistic celebrity face images using the CelebA dataset. GANs are a type of neural network architecture consisting of two networks, a Generator and a Discriminator, which are trained simultaneously to produce high-quality synthetic data that is indistinguishable from real data.
