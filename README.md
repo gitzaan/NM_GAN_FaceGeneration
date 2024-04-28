@@ -12,7 +12,6 @@ This project implements a Generative Adversarial Network (GAN) to generate reali
 - [Usage](#usage)
 - [Results](#results)
 - [Advantages and Trade-offs](#advantages-and-trade-offs)
-- [Bonus Information](#bonus-information)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -74,9 +73,6 @@ The trained GAN model produces high-quality celebrity face images that are visua
 - Training can be unstable between Generator and Discriminator.
 - Lack of density estimation and intrinsic evaluation metrics.
 
-## Bonus Information
-
-MIT Researchers have developed a method where a GAN system can demonstrate step-by-step how a pizza is cooked based on given instructions.
 
 ## Contributing
 
